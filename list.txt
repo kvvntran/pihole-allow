@@ -25,6 +25,7 @@
 (\.|^)datacenter\.sh$
 (\.|^)ignero\.com$
 (\.|^)nintendo$
+(\.|^)spotify\.com$
 kinesis.us-east-1.amazonaws.com
 mparticle.map.fastly.net
 edge.xero.com
