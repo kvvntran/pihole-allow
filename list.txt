@@ -100,3 +100,4 @@ o1.email.plex.tv
 o2.sg0.plex.tv
 dashboard.plex.tv
 firebaseinstallations.googleapis.com
+exp.notion.so
