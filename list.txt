@@ -26,6 +26,7 @@
 (\.|^)ignero\.com$
 (\.|^)nintendo$
 (\.|^)spotify\.com$
+(\.|^)sce\.com$
 (\.|^)techlab-cdn\.com$
 kinesis.us-east-1.amazonaws.com
 mparticle.map.fastly.net
