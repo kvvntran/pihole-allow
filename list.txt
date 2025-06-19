@@ -1,5 +1,4 @@
 (\.|^)zg-api\.com$
-(\.|^)tiktok\.com$
 (\.|^)s\.youtube\.com$
 (\.|^)chase\.com$
 (\.|^)snap\.com$
