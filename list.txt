@@ -1,5 +1,4 @@
 (\.|^)zg-api\.com$
-(\.|^)tiktok\.com$
 (\.|^)s\.youtube\.com$
 (\.|^)chase\.com$
 (\.|^)snap\.com$
@@ -102,4 +101,7 @@ o2.sg0.plex.tv
 dashboard.plex.tv
 firebaseinstallations.googleapis.com
 exp.notion.so
+<<<<<<< HEAD
 us-central1-admob-app-id-4587251595.cloudfunctions.net
+=======
+>>>>>>> b8340b3865fb59c795c03e6f70583c1e33f43bb7
