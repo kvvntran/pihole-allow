@@ -1,0 +1,4 @@
+*.gs-loc.apple.com
+*.gsp-ssl.ls.apple.com
+*.apple.com
+*.iphone-services.apple.com
