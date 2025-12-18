@@ -1,6 +1,7 @@
 (\.|^)zg-api\.com$
 (\.|^)s\.youtube\.com$
 (\.|^)chase\.com$
+(\.|^)paramountplus\.com$
 (\.|^)snap\.com$
 (\.|^)insight\.com$
 (\.|^)united\.com$
