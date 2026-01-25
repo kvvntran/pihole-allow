@@ -111,3 +111,13 @@ imasdk.googleapis.com
 tags.tiqcdn.com
 cdn.cookielaw.org
 cdn.privacy.paramount.com
+saa.paramountplus.com
+saa.cbsi.com
+vod-gcs-cedexis.cbsaavideo.com
+cbsinteractive.hb.omtrdc.net
+cbsi.live.ott.irdeto.com
+wwwimage-us.pplusstatic.com
+wwwimage-secure.cbsstatic.com
+thumbnails.cbsig.net
+bakery.pplus.paramount.tech
+^[^.]+\.cws\.conviva\.com$
