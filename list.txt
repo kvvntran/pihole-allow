@@ -29,6 +29,7 @@
 (\.|^)sce\.com$
 (\.|^)techlab-cdn\.com$
 (\.|^)aaa\.com$
+(\.|^)malabs\.com$
 kinesis.us-east-1.amazonaws.com
 mparticle.map.fastly.net
 edge.xero.com
